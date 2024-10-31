@@ -1,0 +1,6 @@
+.container .navbar{
+    position: sticky;
+    top: 0;
+    left: 0;
+    box-shadow: 0 0 7px #0003;
+}
